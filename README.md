@@ -26,6 +26,7 @@ Job to review the code that has been compiled by the previous job
 Job to carry out all the test cases for the compiled and reviewed code  
 
 ### Technology Used: Jenkins
+### Repository Used: https://github.com/upasanatestgit/Demo
 
 ### Plug-ins Utilized:
 Jenkins comes with a pre-loaded set of plug-ins that it uses to carry out its basic functions, not all jobs can be carried out through pre-loaded plugins thus we can also import various plug-ins as per requirement. The plug-ins used in this project are: Repository Connector, Tracking Git Plugin, Pipeline: Supporting APIs, Pipeline: Stage View Plugin, Pipeline: GitHub, Pipeline: API, Pipeline, Maven.
