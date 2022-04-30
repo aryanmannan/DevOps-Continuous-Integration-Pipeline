@@ -32,6 +32,8 @@ Jenkins comes with a pre-loaded set of plug-ins that it uses to carry out its ba
 ### Conclusion
 Continuous Integration Pipeline was implemented in Jenkins by compiling, reviewing and testing a source code present in a user-defined github repository.
 
+###### Note:The working of this pipeline on jenkins is shown in the video attached titled 'Working of Continuous Integration Pipeline on Jenkins'. The application runs on user's system server and hence doesn't conist of any files that can be attached.
+
 
 
 
