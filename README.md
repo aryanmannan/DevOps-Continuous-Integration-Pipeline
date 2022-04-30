@@ -16,7 +16,8 @@ Jenkins isvan open source automation server which enables developers around the 
 The Objective of this project is to demonstrate the working of continuous integration pipelines in DevOps through Jenkins by compiling, reviewing and testing a code from a user specified github repository.
 
 ### Overview
-The DevOps-Continuous-Integration-Pipeline Project aims at obtaining source code from a github repository specified by the user and then carrying out three major processes (jobs) on that source code to validate its usability and represent it on a pipeline that is called the CI pipeline. Each run of these three jobs created is called a build and each step is called a build step. The jobs that are carried out in this project are:  
+The DevOps-Continuous-Integration-Pipeline Project aims at obtaining source code from a github repository specified by the user and then carrying out three major processes (jobs) on that source code to validate its usability and represent it on a pipeline that is called the CI pipeline. Each run of these three jobs created is called a build and each step is called a build step. The default address for jenkins on a system is localhost:8080 that can be changed as per user's wish.  
+jobs that are carried out in this project are:  
 ##### 1. Compile Job:
 Job to compile the code that is present in the github repository
 ##### 1. Review Job
@@ -32,7 +33,7 @@ Jenkins comes with a pre-loaded set of plug-ins that it uses to carry out its ba
 ### Conclusion
 Continuous Integration Pipeline was implemented in Jenkins by compiling, reviewing and testing a source code present in a user-defined github repository.
 
-###### Note:The working of this pipeline on jenkins is shown in the video attached titled 'Working of Continuous Integration Pipeline on Jenkins'. The application runs on user's system server and hence doesn't conist of any files that can be attached.
+###### Note:The working of this pipeline on jenkins is shown in the video attached titled 'Working of Continuous Integration Pipeline on Jenkins'. The application runs on user's system server and hence doesn't consist of any files that can be attached.
 
 
 
